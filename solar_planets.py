@@ -64,5 +64,5 @@ cv2.FONT_HERSHEY_COMPLEX,
 (255, 255, 255)
 )
 cv2.imshow("Output",img)
-cv2.imwrite("C:/Users/csarm/Downloads/PRO-C116-project-image-main-main\PRO-C116-project-image-main-main/solar-systemwithname.jpg",img)
+cv2.imwrite("C:/Users/csarm/Downloads/PRO-C116-project-image-main-main/PRO-C116-project-image-main-main/solar-systemwithname.jpg",img)
 cv2.waitKey(0)
