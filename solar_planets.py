@@ -1,5 +1,5 @@
 import cv2
-img = cv2.imread("C:/Users/csarm/Downloads/PRO-C116-project-image-main-main\PRO-C116-project-image-main-main/solar-system.jpg")
+img = cv2.imread("C:/Users/csarm/Downloads/PRO-C116-project-image-main-main/PRO-C116-project-image-main-main/solar-system.jpg")
 cv2.putText(img,
 "Sun",
 (75,40),
